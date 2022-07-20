@@ -768,10 +768,10 @@ class App{
             case 'dark':
             case 'light':
             case 'halloween':
-                themeLink.attr('href', `${theme}.css`);
+                themeLink.attr('href', `view/${theme}.css`);
                 break;
             default:
-                themeLink.attr('href', 'dark.css');
+                themeLink.attr('href', 'view/dark.css');
         }
     }
 
