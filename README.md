@@ -1,6 +1,6 @@
 # 修改后的 人生重启模拟器
 
-主页在 (rsstart.netlify.app)[https://rsstart.netlify.app/]
+主页在 [rsstart.netlify.app](https://rsstart.netlify.app/)
 
 经过大改
 
